@@ -1,3 +1,12 @@
-@tailwind base;
-@tailwind components;
-@tailwind utilities;
+@import "tailwindcss";
+
+@theme {
+    --yellow_color: #faca10; 
+    --text_black_color: #1E1E1E;
+    --bg_gray_one: #d4d4d4; 
+    --bg_gray_two: #FBFBFB;
+    --bg_white_one: #FBFBFB;
+    --bg_white: #FFFF;
+}
+
+
